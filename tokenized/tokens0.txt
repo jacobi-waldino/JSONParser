@@ -1,0 +1,21 @@
+<{>
+<str, id>
+<:>
+<num, 2.0>
+<,>
+<str, name>
+<:>
+<str, John Doe>
+<,>
+<str, email>
+<:>
+<str, john.doe@example.com>
+<,>
+<str, age>
+<:>
+<num, 30.0>
+<,>
+<str, isActive>
+<:>
+<bool, True>
+<}>

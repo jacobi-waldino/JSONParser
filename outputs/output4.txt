@@ -1,0 +1,19 @@
+Dictionary
+  Pair
+    Key: theme
+    String: dark
+  Pair
+    Key: language
+    String: en
+  Pair
+    Key: notifications
+      Dictionary
+        Pair
+          Key: email
+          Boolean: True
+        Pair
+          Key: sms
+          Boolean: False
+        Pair
+          Key: push
+          Boolean: True

@@ -1,0 +1,25 @@
+<{>
+<str, theme>
+<:>
+<str, dark>
+<,>
+<str, language>
+<:>
+<str, en>
+<,>
+<str, notifications>
+<:>
+<{>
+<str, email>
+<:>
+<bool, True>
+<,>
+<str, sms>
+<:>
+<bool, False>
+<,>
+<str, push>
+<:>
+<bool, True>
+<}>
+<}>

@@ -1,0 +1,47 @@
+<{>
+<str, tasks>
+<:>
+<[>
+<{>
+<str, id>
+<:>
+<num, 1.0>
+<,>
+<str, title>
+<:>
+<str, Buy groceries>
+<,>
+<str, completed>
+<:>
+<bool, False>
+<}>
+<,>
+<{>
+<str, id>
+<:>
+<num, 2.0>
+<,>
+<str, title>
+<:>
+<str, Clean the house>
+<,>
+<str, completed>
+<:>
+<bool, True>
+<}>
+<,>
+<{>
+<str, id>
+<:>
+<num, 3.0>
+<,>
+<str, title>
+<:>
+<str, Finish project report>
+<,>
+<str, completed>
+<:>
+<bool, False>
+<}>
+<]>
+<}>

@@ -1,0 +1,34 @@
+Dictionary
+  Pair
+    Key: tasks
+      List
+          Dictionary
+            Pair
+              Key: id
+              Number: 1.0
+            Pair
+              Key: title
+              String: Buy groceries
+            Pair
+              Key: completed
+              Boolean: False
+          Dictionary
+            Pair
+              Key: id
+              Number: 2.0
+            Pair
+              Key: title
+              String: Clean the house
+            Pair
+              Key: completed
+              Boolean: True
+          Dictionary
+            Pair
+              Key: id
+              Number: 3.0
+            Pair
+              Key: title
+              String: Finish project report
+            Pair
+              Key: completed
+              Boolean: False

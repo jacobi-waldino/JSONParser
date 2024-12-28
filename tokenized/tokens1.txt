@@ -1,0 +1,21 @@
+<{>
+<str, id>
+<:>
+<num, 101.0>
+<,>
+<str, name>
+<:>
+<str, Wireless Mouse>
+<,>
+<str, brand>
+<:>
+<str, TechBrand>
+<,>
+<str, price>
+<:>
+<num, 29.99>
+<,>
+<str, inStock>
+<:>
+<bool, True>
+<}>

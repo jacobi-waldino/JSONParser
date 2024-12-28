@@ -1,0 +1,16 @@
+Dictionary
+  Pair
+    Key: id
+    Number: 2.0
+  Pair
+    Key: name
+    String: John Doe
+  Pair
+    Key: email
+    String: john.doe@example.com
+  Pair
+    Key: age
+    Number: 30.0
+  Pair
+    Key: isActive
+    Boolean: True

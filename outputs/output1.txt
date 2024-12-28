@@ -1,0 +1,16 @@
+Dictionary
+  Pair
+    Key: id
+    Number: 101.0
+  Pair
+    Key: name
+    String: Wireless Mouse
+  Pair
+    Key: brand
+    String: TechBrand
+  Pair
+    Key: price
+    Number: 29.99
+  Pair
+    Key: inStock
+    Boolean: True

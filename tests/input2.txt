@@ -1,0 +1,7 @@
+{
+  "id": 101,
+  "name": "Wireless Mouse",
+  "brand": "TechBrand",
+  "price": 29.99,
+  "inStock": true
+}
